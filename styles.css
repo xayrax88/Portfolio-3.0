@@ -11912,3 +11912,9 @@ html {
 .copyright {
   background-color: #0a0a0a;
 }
+
+#msg {
+  color: #61b752;
+  margin-top: -20px;
+  display: block;
+}
